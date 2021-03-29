@@ -1,11 +1,14 @@
 # calculator
 This is a Basic Calculator App.
 
-Making .exe file from code: 
-After downloading Code, go to cmd and 
+Making .exe file from code 
+After downloading Code, go to cmd and type
 
 Pip install pyinstaller
+
 pyinstaller --onefile -w test.py
+
+then download NSIS
 
 App View
 
