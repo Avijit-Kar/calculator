@@ -4,9 +4,9 @@ This is a Basic Calculator App.
 Making .exe file from code 
 After downloading Code, go to cmd and type
 
-Pip install pyinstaller
+*Pip install pyinstaller*
 
-pyinstaller --onefile -w test.py
+*pyinstaller --onefile -w test.py*
 
 then download NSIS
 
